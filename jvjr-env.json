@@ -1,0 +1,5 @@
+{
+  "FIRST": "$REACT_APP_FIRST",
+  "SECCOND": "$REACT_APP_SECCOND",
+  "THIRD": "$THIRD"
+}
